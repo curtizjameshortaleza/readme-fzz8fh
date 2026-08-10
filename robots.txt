@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://curtizjameshortaleza.github.io/readme-fzz8fh/sitemap.xml
